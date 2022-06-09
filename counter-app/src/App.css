@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  width: 50%;
+  border-radius: 20px;
+  border: 1px solid blanchedalmond;
+  background-color: azure;
+  padding: 5px;
+
+}
+
+button{
+  width: 15%;
+  font-weight: 600;
+  font-size: 15px;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 10px;
+  border-color: bisque;
+}
